@@ -1,7 +1,8 @@
-# POC
-Projeto Orientado em computação
+# Exploring Swarm Characteristic Neural Network
+Projeto Orientado em Computação, explorando a arquitetura das redes de caracteristica de enxame.
 
-Etapas
-- [x] Implementar uma rede neural usando Swarm Features
-- [x] Reproduzir o experimento de Swarm Characteristic Neural Network
-- [ ] Explorar aplicações alternativas
+Here we will reproduct and explore new problems using this architecture proposed here.
+
+POC I - Just the reproduction of the paper
+
+POC II - Here we expand the scope to attempt to solve a problem involving fraud detection, other involving image classification and stock prediction.
